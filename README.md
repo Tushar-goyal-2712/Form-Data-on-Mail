@@ -36,7 +36,7 @@ Visit [Local Host](http://localhost/)
 
 Input
 
-![Input](https://github.com/Tushar-goyal-2712/Cineflix-Website-clone/blob/5b833a3d516c89b04d52bfa75f07d59ad6ff6b08/Screenshots/cineflix-movie.png)
+![Input](https://github.com/Tushar-goyal-2712/Form-Data-on-Mail/blob/7d8142041595803b336ef63da36fc930be5cf649/Screenshots/design.png)
 
 On Mail
 
