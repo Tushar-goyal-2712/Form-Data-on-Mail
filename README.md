@@ -40,7 +40,7 @@ Input
 
 On Mail
 
-![Input](https://github.com/Tushar-goyal-2712/Cineflix-Website-clone/blob/5b833a3d516c89b04d52bfa75f07d59ad6ff6b08/Screenshots/cineflix-movie.png)
+![Input](https://github.com/Tushar-goyal-2712/Form-Data-on-Mail/blob/fbe8e65f5d921813fb7f4dfd911e8c8a59ee3b1b/Screenshots/mail.png)
 
 ## 📍 Deployment
 
